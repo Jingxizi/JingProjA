@@ -1,0 +1,24 @@
+{
+  "title": "F4 to FN+F4",
+      "rules": [
+    {
+      "description": "F4 to FN+F4",
+      "manipulators": [
+        {
+          "from": {
+            "key_code": "f4"
+          },
+          "to": [
+            {
+              "key_code": "f4",
+              "modifiers": [
+                "fn"
+              ]
+            }
+          ],
+          "type": "basic"
+        }
+      ]
+    }
+  ]
+}
